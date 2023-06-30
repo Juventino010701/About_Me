@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
 }
 .navbar .max-width{
     display: flex;
@@ -260,15 +260,15 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: #111;
+    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
 }
 .services .title::before,
 .teams .title::before{
-    background: #fff;
+    background: none;
 }
 .services .title::after,
 .teams .title::after{
-    background: #111;
+    background: none;
     content: "what i provide";
 }
 .services .serv-content .card{
@@ -360,7 +360,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: crimson;
+    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
 }
 .skills-content .right .html::before{
     width: 80%;
@@ -541,7 +541,7 @@ section .title::after{
 }
 /* footer section styling */
 footer{
-    background: #111;
+    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
     padding: 15px 23px;
     color: #fff;
     text-align: center;
