@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
+    background: url(images/banner5.png);
 }
 .navbar .max-width{
     display: flex;
@@ -260,7 +260,7 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
+    background: url(images/banner5.png);
 }
 .services .title::before,
 .teams .title::before{
@@ -360,7 +360,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
+    background: url(images/banner4.png);
 }
 .skills-content .right .html::before{
     width: 80%;
@@ -541,7 +541,7 @@ section .title::after{
 }
 /* footer section styling */
 footer{
-    background: linear-gradient(to right, rgb(188, 187, 187) , rgb(87, 87, 63), rgb(58, 34, 34));;
+    background: url(images/banner5.png);
     padding: 15px 23px;
     color: #fff;
     text-align: center;
