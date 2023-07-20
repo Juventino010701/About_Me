@@ -170,6 +170,7 @@ section .title::after{
 }
 .scroll-up-btn:active{
     filter: brightness(50%);
+    transform: translateY(5px);
 }
 
 /* home section styling */
@@ -268,6 +269,7 @@ section .title::after{
 }
 .about .about-content .right a:active{
     filter: brightness(50%);
+    transform: translateY(5px);
 }
 
 /* services section styling */
@@ -350,6 +352,7 @@ section .title::after{
 }
 .skills .skills-content .left a:active{
     filter: brightness(50%);
+    transform: translateY(5px);
 }
 .skills .skills-content .right .bars{
     margin-bottom: 15px;
@@ -558,6 +561,7 @@ section .title::after{
 }
 .right form .button-area button:active{
     filter: brightness(50%);
+    transform: translateY(5px);
 }
 
 /* footer section styling */
